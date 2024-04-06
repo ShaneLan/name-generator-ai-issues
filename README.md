@@ -1,7 +1,6 @@
 # Issues for [Name-Generator-AI.com](https://name-generator-ai.com)
 
-Welcome to the issue repository for [Name-Generator-AI.com](https://name-generator-ai.com)
-Name-Generator-AI.com. This repo is dedicated to addressing any issues or feature requests related to name generation website.
+Welcome to the issue repository for [Name-Generator-AI.com](https://name-generator-ai.com). This repo is dedicated to addressing any issues or feature requests related to name generation website.
 
 ## About Name-Generator-AI.com
 
